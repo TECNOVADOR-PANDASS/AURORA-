@@ -1,0 +1,6 @@
+transformers
+nltk
+scikit-learn
+pandas
+torch
+textblob
